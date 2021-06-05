@@ -10,7 +10,7 @@ The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at 
 <li>Tensorflow
 <br>during these 7 days, and everything was explained from the very basics so that
 anyone who has zero experience with programming can learn.
-I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
+I enjoyed these 7 days, you can as well. To register for the next free 7 days bootcamp, visit:
 <a href="https://www.shapeai.tech"> www.shapeai.tech</a>
 or follow SHAPEAI on:
 <li><a href=
